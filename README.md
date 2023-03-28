@@ -11,4 +11,4 @@
 ```docker-compose up --build```
 
 ## Backend
-Бэкэнд приложение можно найти по ссылке: 
+Бэкэнд приложение можно найти по ссылке: https://github.com/daniilpopovv/taxicab-backend

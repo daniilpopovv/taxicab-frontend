@@ -1,4 +1,13 @@
-Dockerfile
+README.md
+.idea
 .gitignore
+
+# docker-files
 .dockerignore
+Dockerfile
+docker-compose.yaml
+
+# bundles
 node_modules
+npm-debug.log
+yarn-error.log
