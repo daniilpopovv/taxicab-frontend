@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  react:
+    build:
+      context: .
+    ports:
+      - "80:80"
+    command: npm run dev -- --port 80
